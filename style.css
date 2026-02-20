@@ -1,0 +1,122 @@
+.archivo-black-regular {
+  font-family: "Archivo Black", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.archivo-narrow-regular {
+  font-family: "Archivo Narrow", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+header {
+  max-width: 1920px;
+}
+body {
+  background-color: #4D49FC;
+  color: #EEEAE7;
+  padding: 0 50px 0 50px;
+  max-width: 1920px;
+}
+h1, h2, h3{
+  font-family:"Archivo Black", sans-serif;
+}
+p, ul {
+  font-family: "Archivo Narrow", sans-serif;
+  font-size:1.2em;
+}
+.logo {
+  padding: 0 20px;
+}
+.a_propos{
+  padding: 0 20px;
+  margin: 22px 0 0 0;
+  float: right;
+  position: relative;
+  bottom: 70px;
+  right: 10px;
+  border: 1px solid #E95000;
+  border-radius: 10px;
+  background-color: #E95000;
+  color: #EEEAE7;
+  font-family: "Archivo Black", sans-serif;
+  font-size: 1.5em;
+}
+.conteneur{
+  display: grid;
+}
+.box_one {
+  margin: 0 0 0 20px;
+  padding: 0 0 0 0;
+  border: 1px solid black;
+  border-radius: 50px;
+  position: relative;
+}
+.box_two {
+  font-size: 2.2em;
+  padding: 0 0 0 20px;
+  margin: 0 0 0 0;
+  position: relative;
+}
+.box_three {
+  text-align: justify;
+  padding: 0 0 0 20px;
+  margin: 10px 1520px 0 100px;
+  position: relative;
+  left: 50px;
+  bottom: 50px;
+  border: 1px solid #E95000;
+  border-radius: 50px;
+  background-color: #E95000;
+}
+.box_four {
+  border: 1px solid black;
+  border-radius: 50px;
+  padding: 0 0 0 0;
+  margin: 0 0 0 1230px;
+  position: relative;
+  bottom: 640px;
+  left: 180px;
+}
+.box_five {
+  text-align: justify;
+  padding: 0 20px 0 20px;
+  margin: 0 20px 0 1280px;
+  position: relative;
+  bottom: 620px;
+  left: 120px;
+  border: 1px solid #000000;
+  border-radius: 50px;
+  background-color: #000000;
+}
+.box_six {
+  text-align: justify;
+  background-color: black;
+  border:1px solid black;
+  border-radius: 50px;
+  padding: 15px 30px 15px 30px;
+  margin: 0 600px 0 20px;
+  position: relative;
+  bottom: 540px;
+}
+.box_seven {
+  border: 1px solid white ;
+  border-radius: 50px;
+  background-color: white;
+  padding: 0 0 0 0;
+  margin: 0 100px 0 1310px;
+  position: relative;
+  bottom: 740px;
+  left: 80px;
+}
+.box_eight {
+  text-align: justify;
+  padding: 0 0 2px 20px;
+  margin: 10px 1550px 0 100px;
+  position: relative;
+  left: 300px;
+  bottom: 1068px;
+  border: 1px solid #E95000;
+  border-radius: 50px;
+  background-color: #E95000;
+}
